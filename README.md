@@ -3,6 +3,14 @@
 Asinoyx is a package which can simplify your multiprocessing implementation, also you 
 can easily watch the progress of multiprocessing execution.
 
+## Installation
+
+You can install this package by this command:
+
+```shell script
+pip3 install acinonyx
+```
+
 ## Usage
 
 A simple sample:

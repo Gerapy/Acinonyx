@@ -22,7 +22,7 @@ print(run(log, values))
 
 It will run with `cpu_count` processes and print progress bar, output is below:
 
-```python
+```
 1%|█       | 1/100 [00:01<00:40,  2.29it/s]
 26%|██       | 26/100 [00:01<00:32,  21.29it/s]
 100%|██████████| 100/100 [00:03<00:00, 26.86it/s]
